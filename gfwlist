@@ -2,11 +2,14 @@
 [wildcard]
 
 #google
+mail.google.com
+plus.google.com
 youtu.be
 youtube.com
 blogger.com
 blogcdn.com
 blogspot.com
+blogspot.jp
 sites.google.com
 groups.google.com
 docs.google.com
@@ -44,6 +47,7 @@ apigee.com
 wordpress.com
 posterous.com
 tumblr.com
+slideshare.net
 
 #download
 piratebay.org
@@ -58,6 +62,8 @@ chinagfw.org
 # https
 https://*.googlecode.com/*
 https://code.google.com/*
+http://www.google.com/url?sa=*
+https://www.google.com/url?sa=*
 
 #Others
 sourceforge.net
