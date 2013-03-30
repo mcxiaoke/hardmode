@@ -2,20 +2,15 @@
 [wildcard]
 
 #google
-mail.google.com
-plus.google.com
+google.com
 youtu.be
 youtube.com
 blogger.com
 blogcdn.com
 blogspot.com
 blogspot.jp
-sites.google.com
-groups.google.com
-docs.google.com
 googleusercontent.com
 feedburner.com
-feedproxy.google.com
 appspot.com
 
 #url shortener
@@ -61,13 +56,11 @@ chinagfw.org
 
 # https
 https://*.googlecode.com/*
-https://code.google.com/*
-http://www.google.com/url?sa=*
-https://www.google.com/url?sa=*
 
 #Others
 sourceforge.net
 sf.net
+twitter4j.org
 
 [regexp]
 #END
