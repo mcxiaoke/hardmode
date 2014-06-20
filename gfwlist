@@ -1,7 +1,8 @@
 #BEGIN
 
 [wildcard]
-
+adzerk.net
+akamaihd.net
 apigee.com
 appledaily.com.tw
 appspot.com
@@ -26,12 +27,17 @@ fb.me
 fbcdn.net
 fc2.com
 feedburner.com
+feedly.com
 ff.im
 foursquare.com
+ggpht.com
 google.com
+googleapis.com
+google-analytics.com
 googlesource.com
 googleusercontent.com
 googlecode.com
+gstatic.com
 igfw.tk
 img.ly
 j.mp
@@ -48,12 +54,14 @@ piratebay.org
 pixnet.net
 posterous.com
 ptt.cc
+quantserve.om
 rfi.fr
 scmp.com
 sf.net
 shadowsocks.org
 slideshare.net
 sourceforge.net
+sstatic.net
 t.co
 thepiratebay.org
 thepiratebay.se
