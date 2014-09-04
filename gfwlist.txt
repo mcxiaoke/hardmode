@@ -1,3 +1,6 @@
+#BEGIN
+
+[wildcard]
 0rz.tw
 0to255.com
 10musume.com
@@ -2457,3 +2460,7 @@ zuo.la
 zuola.com
 zvereff.com
 zyzc9.com
+
+[regexp]
+
+#END
