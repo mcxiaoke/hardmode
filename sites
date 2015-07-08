@@ -1,5 +1,6 @@
 #BEGIN
 
+[regexp]
 [wildcard]
 adzerk.net
 akamaihd.net
@@ -15,6 +16,7 @@ blogcdn.com
 blogger.com
 blogspot.com
 blogspot.jp
+blogspot.tw
 bloomberg.com
 boxun.com
 cdninstagram.com
@@ -30,6 +32,7 @@ dw-world.de
 dw.de
 epochtimes.com
 facebook.com
+facebook.net
 fb.me
 fbcdn.net
 fc2.com
@@ -39,16 +42,19 @@ ff.im
 foursquare.com
 ggpht.com
 gist.github.com
+goo.gl
+google-analytics.com
 google.com
 googleapis.com
-google-analytics.com
+googlecode.com
 googlesource.com
 googleusercontent.com
-googlecode.com
+googlevideo.com
 greatfire.org
 gstatic.com
-igfw.tk
+ift.tt
 igfw.net
+igfw.tk
 img.ly
 instagram.com
 j.mp
@@ -71,11 +77,13 @@ privatetunnel.com
 ptt.cc
 quantserve.om
 rfi.fr
+s3.amazonaws.com
 scmp.com
 sf.net
 shadowsocks.org
 slideshare.net
 sourceforge.net
+speekerdesk.com
 sstatic.net
 t.co
 thepiratebay.org
@@ -85,7 +93,6 @@ travis-ci.org
 tumblr.com
 tw.yahoo.com
 twimg.com
-twitpic.com
 twitter.com
 twitter4j.org
 wordpress.com
@@ -95,11 +102,6 @@ youtu.be
 youtube.com
 ytimg.com
 zaobao.com
-zh.wikipedia.org
-
-
-[regexp]
+wikipedia.org
 
 #END
-
-
