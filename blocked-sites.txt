@@ -1,7 +1,3 @@
-#BEGIN
-
-[regexp]
-[wildcard]
 abc.xyz
 adzerk.net
 akamaihd.net
@@ -140,5 +136,3 @@ youtu.be
 youtube.com
 ytimg.com
 zaobao.com
-
-#END
