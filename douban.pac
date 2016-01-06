@@ -14,6 +14,7 @@ function FindProxyForURL(url, host) {
         "archive.org",
         "awsstatic.com",
         "bbc.co.uk",
+        "bbc.com",
         "bit.ly",
         "blogcdn.com",
         "blogger.com",
