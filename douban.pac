@@ -135,6 +135,7 @@ function FindProxyForURL(url, host) {
         "wordpress.com",
         "wp.com",
         "wretch.cc",
+        "wsj.com",
         "www.shutterstock.com",
         "yfrog.com",
         "yimg.com",
