@@ -53,7 +53,7 @@ function FindProxyForURL(url, host) {
         "ggpht.com",
         "gist.github.com",
         "git-scm.com",
-        "github.com",
+        "gist.github.com",
         "githubusercontent.com",
         "gmail.com",
         "golang.org",
