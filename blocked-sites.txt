@@ -46,11 +46,10 @@ feedly.com
 ff.im
 firebase.com
 foursquare.com
+getpocket.com
 ggpht.com
 gist.github.com
 git-scm.com
-github.com
-githubusercontent.com
 gmail.com
 golang.org
 goo.gl
@@ -79,6 +78,7 @@ j.mp
 jsbin.com
 lgtm.in
 mail-archive.com
+medium.com
 mobile01.com
 mobypicture.com
 mpinews.com
