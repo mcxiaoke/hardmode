@@ -50,6 +50,7 @@ getpocket.com
 ggpht.com
 gist.github.com
 git-scm.com
+github.io
 gmail.com
 golang.org
 goo.gl
