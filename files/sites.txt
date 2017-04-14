@@ -245,6 +245,7 @@ ssl.fastly.net
 sstatic.net
 staticflickr.com
 status.twhirl.org
+steamcommunity.com
 t.co
 thepiratebay.org
 thepiratebay.se
