@@ -180,6 +180,7 @@ mpinews.com
 multiupload.com
 myforum.com.hk
 myforum.com.uk
+mzstatic.com
 nextmedia.com
 ngrok.com
 nicovideo.jp

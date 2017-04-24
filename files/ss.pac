@@ -167,6 +167,7 @@ var domains = {
   "scmp.com": 1, 
   "travis-ci.org": 1, 
   "dongyangjing.com": 1, 
+  "mzstatic.com": 1, 
   "googlepages.com": 1, 
   "medium.com": 1, 
   "peacehall.com": 1, 
