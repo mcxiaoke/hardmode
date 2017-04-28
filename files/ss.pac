@@ -173,6 +173,7 @@ var domains = {
   "googlepages.com": 1, 
   "medium.com": 1, 
   "peacehall.com": 1, 
+  "kknews.cc": 1, 
   "googleartproject.com": 1, 
   "fbcdn.net": 1, 
   "twitter.com": 1, 
