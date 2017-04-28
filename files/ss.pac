@@ -70,6 +70,7 @@ var domains = {
   "sgamer.com": 1, 
   "fuckgfw.com": 1, 
   "ggssl.com": 1, 
+  "read01.com": 1, 
   "google.co.jp": 1, 
   "bbc.co": 1, 
   "ow.ly": 1, 

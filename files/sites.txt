@@ -227,6 +227,7 @@ python.org
 quantserve.om
 quora.com
 quoracdn.net
+read01.com
 readthedocs.org
 reuters.com
 rfi.fr
