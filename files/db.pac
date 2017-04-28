@@ -67,6 +67,7 @@ var domains = {
   "vultr.com": 1, 
   "aboutgfw.com": 1, 
   "blogspot.tw": 1, 
+  "sgamer.com": 1, 
   "fuckgfw.com": 1, 
   "ggssl.com": 1, 
   "google.co.jp": 1, 
