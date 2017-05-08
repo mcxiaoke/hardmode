@@ -232,6 +232,7 @@ read01.com
 readthedocs.org
 reuters.com
 rfi.fr
+s3.amazonaws.com
 s-cute.com
 scmp.com
 sf.net
