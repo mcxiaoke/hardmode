@@ -162,6 +162,7 @@ var domains = {
   "geocities.co.jp": 1, 
   "angularjs.org": 1, 
   "chinagfw.org": 1, 
+  "lithium.com": 1, 
   "snapchat.com": 1, 
   "bcchinese.net": 1, 
   "boxun.tv": 1, 
