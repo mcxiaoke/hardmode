@@ -29,6 +29,7 @@ var domains = {
   "pornmm.net": 1, 
   "igfw.net": 1, 
   "googletagservices.com": 1, 
+  "alternativeto.net": 1, 
   "steamcommunity.com": 1, 
   "archive.org": 1, 
   "googlesyndication.com": 1, 
