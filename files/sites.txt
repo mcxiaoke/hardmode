@@ -153,6 +153,7 @@ hkday.net
 ht.ly
 hulu.com
 huluim.com
+icq.com
 idv.tw
 if.ttt
 ift.tt
@@ -231,6 +232,7 @@ quora.com
 quoracdn.net
 read01.com
 readthedocs.org
+redditstatic.com
 reuters.com
 rfi.fr
 s3.amazonaws.com

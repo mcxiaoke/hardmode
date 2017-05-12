@@ -154,6 +154,7 @@
 ||ht.ly
 ||hulu.com
 ||huluim.com
+||icq.com
 ||idv.tw
 ||if.ttt
 ||ift.tt
@@ -232,6 +233,7 @@
 ||quoracdn.net
 ||read01.com
 ||readthedocs.org
+||redditstatic.com
 ||reuters.com
 ||rfi.fr
 ||s3.amazonaws.com
