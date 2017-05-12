@@ -154,6 +154,7 @@ ht.ly
 hulu.com
 huluim.com
 icq.com
+icq.net
 idv.tw
 if.ttt
 ift.tt
