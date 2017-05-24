@@ -175,6 +175,7 @@ ghconduit.com
 ghost.org
 gist.github.com
 git-scm.com
+github.io
 gmail.com
 gmodules.com
 go.com
@@ -342,6 +343,7 @@ readthedocs.org
 recaptcha.net
 redditstatic.com
 reuters.com
+rfa.org
 rfi.fr
 rileyguide.com
 rsf.org
