@@ -155,6 +155,7 @@
 ||foursquare.com
 ||freeopenproxy.com
 ||friendfeed.com
+||ftchinese.com
 ||fuckgfw.com
 ||fuckgfw.org
 ||fzlm.net

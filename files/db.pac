@@ -371,6 +371,7 @@ var domains = {
   "wn.com": 1, 
   "android-x86.org": 1, 
   "wikileaks.info": 1, 
+  "ftchinese.com": 1, 
   "v2ray.com": 1, 
   "blogspot.ca": 1, 
   "aol.com": 1, 
