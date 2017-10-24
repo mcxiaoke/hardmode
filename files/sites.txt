@@ -39,6 +39,7 @@ awsstatic.com
 bbc.co
 bbc.co.uk
 bbc.com
+bbci.co.uk
 bbcchinese.com
 bbtoystore.com
 bcchinese.net
