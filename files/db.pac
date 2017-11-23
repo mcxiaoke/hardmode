@@ -508,6 +508,7 @@ var domains = {
   "codecademy.com": 1, 
   "yorkbbs.ca": 1, 
   "technorati.com": 1, 
+  "letscorp.net": 1, 
   "yfrog.com": 1, 
   "digisfera.com": 1, 
   "appledaily.com.tw": 1, 
