@@ -95,6 +95,7 @@ cjb.net
 cl.ly
 cloudflare.com
 cloudfront.net
+cn.nikkei.com
 cn.reuters.com
 cn.wsj.com
 cnn.com

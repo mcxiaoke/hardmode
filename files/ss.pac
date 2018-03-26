@@ -34,6 +34,7 @@ var domains = {
   "panoramio.com": 1, 
   "vocativ.com": 1, 
   "zaobao.com": 1, 
+  "nikkei.com": 1, 
   "ssa.gov": 1, 
   "facebook.net": 1, 
   "gravatar.com": 1, 
