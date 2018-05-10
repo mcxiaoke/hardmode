@@ -9,6 +9,7 @@ adzerk.net
 akamai.net
 akamaihd.net
 allconnected.co
+allmusic.com
 alternativeto.net
 amazon.com
 amazonaws.com
@@ -39,8 +40,8 @@ awsstatic.com
 bbc.co
 bbc.co.uk
 bbc.com
-bbci.co.uk
 bbcchinese.com
+bbci.co.uk
 bbtoystore.com
 bcchinese.net
 bigsound.org
@@ -72,8 +73,10 @@ box.com
 box.net
 boxun.com
 boxun.tv
+brit.co
 buff.ly
 businessweek.com
+bustle.com
 cbc.ca
 cdn.softlayer.net
 cdn.sstatic.net
@@ -112,6 +115,7 @@ digisfera.com
 digitaltrends.com
 disconnect.me
 discuss.com.hk
+disqus.com
 dmm.co.jp
 dnsimple.com
 docker.com
@@ -149,6 +153,7 @@ fc2china.com
 feedburner.com
 feedly.com
 ff.im
+filmdirectorseries.com
 firebase.com
 flickr.com
 flickrhivemind.net
@@ -156,6 +161,7 @@ flipkart.com
 flitto.com
 foursquare.com
 freeopenproxy.com
+freepik.com
 friendfeed.com
 ftchinese.com
 fuckgfw.com
@@ -178,7 +184,9 @@ ghconduit.com
 ghost.org
 gist.github.com
 git-scm.com
+github.com
 github.io
+githubusercontent.com
 gmail.com
 gmodules.com
 go.com
@@ -187,12 +195,16 @@ godaddy.com
 golang.org
 goo.gl
 google-analytics.com
+google.cn
+google.co.id
 google.co.jp
 google.com
 google.com.hk
+google.com.pk
 google.com.tw
 googleapis.com
 googleartproject.com
+googleblog.com
 googlecode.com
 googlecommerce.com
 googledomains.com
@@ -259,7 +271,9 @@ linode.com
 lithium.com
 logmein.com
 mail-archive.com
+mansionglobal.com
 marketwatch.com
+media.complex.com
 media.net
 medium.com
 megaupload.com
@@ -285,10 +299,11 @@ ngrok.com
 nicovideo.jp
 nih.gov
 nrk.no
-nytstyle.com
 nyt.com
+nytcn.me
 nytimes.com
 nytimg.com
+nytstyle.com
 onedrive.live.com
 openid.net
 openvpn.net
@@ -317,6 +332,8 @@ pixnet.net
 pokemon.com
 polymer-project.org
 popo.tw
+popsugar-assets.com
+popsugar.com
 pornbase.org
 pornhd.com
 pornhub.com
@@ -347,13 +364,16 @@ readmoo.com
 readthedocs.org
 recaptcha.net
 redditstatic.com
+refinery29.com
 reuters.com
+reutersmedia.net
 rfa.org
 rfi.fr
 rileyguide.com
 rsf.org
 s-cute.com
 s3.amazonaws.com
+salon.com
 sciencedaily.com
 sciencemag.org
 scmp.com
@@ -366,8 +386,10 @@ shutterstock.com
 sidelinesnews.com
 sketchappsources.com
 skype.com
+slack-edge.com
 slack-msgs.com
 slack.com
+slack.global.ssl.fastly.net
 slideshare.net
 smh.com.au
 snapchat.com
@@ -462,6 +484,7 @@ unblocksites.co
 unpo.org
 untraceable.us
 uploaded.net
+uplynk.com
 uproxy.org
 urlparser.com
 us.to
@@ -560,7 +583,3 @@ zaobao.com
 zaobao.com.sg
 zeutch.com
 zynamics.com
-mansionglobal.com
-reutersmedia.net
-nytcn.me
-disqus.com
