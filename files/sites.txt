@@ -87,6 +87,7 @@ certificate-transparency.org
 change.org
 chinadigitaltimes.net
 chinagfw.org
+chinatrust.com.tw
 chinese.engadget.com
 chrome.com
 chromecast.com
@@ -229,6 +230,7 @@ gvt0.com
 gvt1.com
 hkdailynews.com.hk
 hkday.net
+hkgolden.com
 homedepot.com
 hootsuite.com
 howtoforge.com
@@ -492,6 +494,7 @@ usgs.gov
 usma.edu
 uspto.gov
 ustream.tv
+uwants.com
 v2ray.com
 van001.com
 vanpeople.com
