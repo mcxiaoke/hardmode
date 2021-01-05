@@ -3,5 +3,9 @@
 # @Last Modified by:   mcxiaoke
 # @Last Modified time: 2017-04-13 14:56:14
 # pip install gfwlist2pac
-gfwlist2pac -i sites.txt -p "SOCKS5 127.0.0.1:1080;" -f ss.pac
-gfwlist2pac -i sites.txt -p "PROXY 10.8.0.1:8118;DIRECT" -f db.pac
+cat raw.txt | sort -u > sites.txt
+sed -i "" "/^[[:space:]]*$/d" sites.txt
+sed -e 's/^/||/' sites.txt > list.txt
+gfwlist2pac -i sites.txt -p "SOCKS5 127.0.0.1:2080;" -f ss.pac
+rm raw.txt
+cp sites.txt raw.txt
